@@ -27,30 +27,15 @@ function Projects() {
           h3="SaleSense"
           p="Completely responsive React dashboard"
         />
-        <ProjectCard
-          src={viberr}
-          link="https://github.com/PoorviiVerma/Study-Sync.git"
-          h3="StudySync"
-          p="Frontend - Online learning platform"
-        />
+        
         <ProjectCard
           src={freshBurger}
           link="https://github.com/PoorviiVerma/Machine-Learning-Projects.git"
           h3="Suicide Detection"
           p="Machine Learning and NLP project"
         />
-        <ProjectCard
-          src={hipsster}
-          link="https://github.com/PoorviiVerma/Chess.git"
-          h3="Chess"
-          p="Chess board Game"
-        />
-        <ProjectCard
-          src={fitLift}
-          link="https://github.com/PoorviiVerma/Car-Racing.git"
-          h3="Car Race"
-          p="Unlimited racing game"
-        />
+       
+        
       </div>
     </section>
   );
