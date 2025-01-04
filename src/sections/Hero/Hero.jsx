@@ -38,7 +38,6 @@ function Hero() {
           Hi, I'm
           Poorvi
           <br />
-         
         </h1>
         <h2>Frontend Developer and Data Analyst</h2>
         <span>
@@ -48,14 +47,9 @@ function Hero() {
           <a href="https://github.com/PoorviiVerma/" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          
         </span>
         <p className={styles.description}>
-<<<<<<< HEAD
-          I'm a skilled MERN stack developer and data analyst.A quick learner and collaborate closely with team to create efficient,responsive and user-friendly solutions. Let's work together to bring your ideas to life!
-=======
-          I'm a skilled MERN stack developer and data analyst.I'm a quick learner and collaborate closely to create efficient,responsive and user-friendly solutions. Let's work together to bring your ideas to life!
->>>>>>> 518c85d873b4678d3da3d36a7957a3411d57cc65
+          I'm a skilled MERN stack developer and data analyst. I'm a quick learner and collaborate closely to create efficient, responsive, and user-friendly solutions. Let's work together to bring your ideas to life!
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
